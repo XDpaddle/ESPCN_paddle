@@ -60,7 +60,40 @@ PSNR was calculated on the Y channel.
 | PSNR      | 3     | 33.06 |
 
 
-
+<table>
+    <tr>
+        <td><center>Original</center></td>
+        <td><center>BICUBIC x3</center></td>
+        <td><center>ESPCN x3 (23.84 dB)</center></td>
+    </tr>
+    <tr>
+    	<td>
+    		<center><img src="./data/baboon.bmp""></center>
+    	</td>
+    	<td>
+    		<center><img src="./data/baboon_bicubic_x3.bmp"></center>
+    	</td>
+    	<td>
+    		<center><img src="./data/baboon_espcn_x3.bmp"></center>
+    	</td>
+    </tr>
+    <tr>
+        <td><center>Original</center></td>
+        <td><center>BICUBIC x3</center></td>
+        <td><center>ESPCN x3 (25.32 dB)</center></td>
+    </tr>
+    <tr>
+    	<td>
+    		<center><img src="./data/comic.bmp""></center>
+    	</td>
+    	<td>
+    		<center><img src="./data/comic_bicubic_x3.bmp"></center>
+    	</td>
+    	<td>
+    		<center><img src="./data/comic_espcn_x3.bmp"></center>
+    	</td>
+    </tr>  
+</table>
 
 
 
