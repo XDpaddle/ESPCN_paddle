@@ -45,7 +45,7 @@ The results are stored in the same path as the query image.
 
 ```bash
 python test.py --weights-file "BLAH_BLAH/outputs/x3/best.pdiparams" \
-               --image-file "data/baboon.bmp" \
+               --image-file "data/butterfly_GT.bmp" \
                --scale 3
 ```
 
