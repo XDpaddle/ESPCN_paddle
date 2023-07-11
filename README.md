@@ -57,7 +57,7 @@ PSNR was calculated on the Y channel.
 
 | Eval. Mat | Scale | Paper |
 | --------- | ----- | ----- |
-| PSNR      | 3     | 23.72 |
+| PSNR      | 3     | 33.06 |
 
 
 
